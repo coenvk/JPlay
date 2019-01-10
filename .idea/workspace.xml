@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JPlay:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/FXPlayList.java" line="56" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5013a34-aa78-4a31-9db4-df5068f58ef4" name="Default" comment="">
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/2ce80c52-a19b-497c-92b4-8481cc109ac7/console.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/cd0f5daf-d2df-4cbf-ad34-c39499da27f1/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/consoles/db/00f80440-51fd-4ce3-aa54-d0d2f3a6cca0/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/options/databaseDrivers.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/options/php.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ComicBookReader/src/main/java/com/arman/ComicBookPanel.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ComicBookReader/src/main/java/com/arman/ComicBookReader.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ComicBookReader/src/main/java/com/arman/FileTypeDetector.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ComicBookReader/src/main/java/com/arman/Main.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/.idea/dictionaries/Coen.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/JDBCassignment.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/ex1.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/ex2.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/ex3.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/ex4.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/README.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/agent.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/board.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/gameobjects.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/main.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/move.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/snake.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/.idea/libraries/concurrent_junit_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/.idea/libraries/jcip_annotations.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/AST.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/NonTerm.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ParseException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/Parser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/Symbol.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/SymbolFactory.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/Term.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/Sentence.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceCounter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceMod.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceMod.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/Arithmetic.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/Arithmetic.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/Calculator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/BasicLLCalc.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/GenericLLParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/Grammar.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/Grammars.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/If.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/LLCalc.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/LRQ.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/LrqParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/Rule.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/Sentence.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/SentenceParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/test/GenericLLParserTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/test/LLCalcTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/test/SentenceConverterTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/annotation/Point.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/annotation/RandomDrift.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/annotation/RandomPointTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/listings/UnsafeSequence.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/queue/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/queue/Queue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/queue/QueueEmptyException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/queue/SafeLinkedQueue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/LinkedQueueTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/SimpleDateFormatTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/ThreadedTimerPoolTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/ThreadedTimerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/UnsafeSequenceTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/timer/ThreadedTimer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/timer/ThreadedTimerPool.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/Calc.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/CalcAttr.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/CalcVocab.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/Calculator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/T.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/TAttr.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/TConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/TVocab.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/Type.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/BasicSymbolTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/DeclUse.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/DeclUseConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/SymbolTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/declexamplecorrect.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/declexamplewrong.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/HTMLListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/SimpleErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/Tabular.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-1.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-2.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-3.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-4.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-5.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/test/CalcTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/test/DeclUseTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/test/SymbolTableTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/test/TTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/hotel/Person.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/jml/Point.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/lockcoupling/ConcurrentLinkedList.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/lockcoupling/List.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/mapreduce/MapReduceBase.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/synchronizers/BasicLock.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/synchronizers/CompareAndSet.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/synchronizers/DekkerLock.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/tests/ListTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/tests/LockTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/ErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/BottomUpCFGBuilder.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/Fragment.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/FragmentBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/FragmentLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/FragmentListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/FragmentParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/Graph.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/Node.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/TopDownCFGBuilder.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/iloc/Calc.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/iloc/CalcCompiler.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/iloc/Samples.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/iloc/max.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/test/CalcCompilerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/test/FindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/src/main/java/com/arman/GamePlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/src/main/java/com/arman/GamePlayState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/src/main/java/com/arman/main/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/src/main/java/com/arman/main/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/EqualizerPresets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/FXMLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/FXMLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/FXPlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/PlayButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/PlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/PreviousButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/RepeatButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/RootLayout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/SeekBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/SkipButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/SmartSplashPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/SplashPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/ThemeSpinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/VolumeSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/darktheme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/test/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/util/IconConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/util/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/util/KeepAwakeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/jfx/util/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arman/jfx/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Matrix4D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Quaternion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Vector2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/MeshLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/parsers/MaterialParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ApplicationPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ClippingPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/GeometryPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/GraphicsPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/LightingPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/Pipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ProjectionPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/RasterizationPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/projectors/Orthographic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/projectors/Projection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/rasterizers/TriangleRasterizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/BasicRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/BoundingBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/EdgeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/GlobalEdgeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/Graphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanLineRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ZBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ZBufferRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/util/ExtraMath.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/error.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/db_connect.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/functions.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/login.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/logout.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/psl-config.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/register.inc.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/test.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/index.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/js/forms.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/js/sha512.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/register.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/register_success.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Ball.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Collisions.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Cue.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Game.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/GameEvents.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Physics.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Rules.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Table.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Window.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Downloads/Download-v3.zip" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FXPlayList.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/com/arman/jfx/FXPlayList.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="362" column="100" selection-start-line="362" selection-start-column="100" selection-end-line="362" selection-end-column="100" />
+              <folding>
+                <element signature="e#0#20096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplashPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/SplashPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Song.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/Song.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>XMPDM</find>
+      <find>root</find>
+      <find>System.curre</find>
+      <find>Tika</find>
+      <find>equalizer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/RootLayout.fxml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/jfx/test/SplashyTest.java" />
+        <option value="$PROJECT_DIR$/src/jfx/FXMLTest.java" />
+        <option value="$PROJECT_DIR$/src/jfx/FXPlayList.java" />
+        <option value="$PROJECT_DIR$/src/jfx/FXMLController.java" />
+        <option value="$PROJECT_DIR$/src/jfx/SplashPlayer.java" />
+        <option value="$PROJECT_DIR$/src/jfx/Test.java" />
+        <option value="$PROJECT_DIR$/src/jfx/Song.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/test/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/PlayButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/SkipButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/PreviousButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/util/TimeFormatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/SeekBar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/RepeatButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/ThemeSpinner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/FXMLTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/FXMLController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/RootLayout.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/FXPlayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/SplashPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/SmartSplashPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jfx/Song.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/arman/jfx/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JPlay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JPlay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1141" />
+    <option name="width" value="1174" />
+    <option name="height" value="1307" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPlay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPlay" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="TikaCLI&#9;PSI&#9;JAVA://org.apache.tika.cli.TikaCLI&#10;tika&#9;FILE&#9;jar://C:/Users/Coen/Downloads/tika-1.16-src.zip!/tika-1.16/tika-core/src/main/java/org/apache/tika/exception/TikaException.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$USER_HOME$/Downloads" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sokoban" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Coen\IdeaProjects\JPlay\src" />
+      <recent name="C:\Users\Coen\IdeaProjects\JPlay\target\classes\com\arman\jfx" />
+      <recent name="C:\Users\Coen\IdeaProjects\JPlay" />
+      <recent name="C:\Users\Coen\IdeaProjects\JPlay\src\main" />
+      <recent name="C:\Users\Coen\IdeaProjects\JPlay\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.arman.jfx" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Coen\IdeaProjects\JPlay\target\classes\jfx" />
+      <recent name="C:\Users\Coen\IdeaProjects\JPlay\res" />
+      <recent name="C:\Users\Coen\IdeaProjects\JPlay\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SplashPlayer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="FXMLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.jfx.FXMLTest" />
+      <module name="JPlay" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.jfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FXPlayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.jfx.FXPlayList" />
+      <module name="JPlay" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.jfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SmartSplashPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.jfx.SmartSplashPlayer" />
+      <module name="JPlay" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.jfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SplashPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.jfx.SplashPlayer" />
+      <module name="JPlay" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.jfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SplashScreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.jfx.test.SplashScreen" />
+      <module name="JPlay" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.jfx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JPlay" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SplashPlayer" />
+      <item itemvalue="Application.SplashScreen" />
+      <item itemvalue="Application.FXPlayList" />
+      <item itemvalue="Application.FXMLTest" />
+      <item itemvalue="Application.SmartSplashPlayer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SplashPlayer" />
+        <item itemvalue="Application.FXPlayList" />
+        <item itemvalue="Application.SmartSplashPlayer" />
+        <item itemvalue="Application.SplashScreen" />
+        <item itemvalue="Application.FXMLTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Coen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5013a34-aa78-4a31-9db4-df5068f58ef4" name="Default" comment="" />
+      <created>1500040486760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500040486760</updated>
+      <workItem from="1500040490341" duration="842000" />
+      <workItem from="1500041346166" duration="602000" />
+      <workItem from="1500046238661" duration="12000" />
+      <workItem from="1501062469629" duration="4270000" />
+      <workItem from="1501066769011" duration="10193000" />
+      <workItem from="1502111776218" duration="5827000" />
+      <workItem from="1502292683648" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21756000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="2326" height="1318" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tool Output" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.25719425" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5043431" side_tool="true" weight="0.3291367" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32647586" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4956569" weight="0.3210099" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5528233" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.210644" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Properties" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="4" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4956569" visible="true" weight="0.32023808" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Docker" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5043431" side_tool="true" weight="0.3297619" />
+      <window_info anchor="bottom" id="Statistic" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.38513514" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/dialog.css" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/lang/Class.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/EqualizerPresets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jfx/AbstractAudio.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jfx/AbstractAudioDevice.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jfx/AbstractEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jfx/tagging/ID3v2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jfx/test/SplashyTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/util/KeepAwakeThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/util/IconConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/PlayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="96" column="41" lean-forward="true" selection-start-line="96" selection-start-column="41" selection-end-line="96" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/event/Event.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/control/ButtonBase.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/event/ActionEvent.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/event/EventHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/PlayButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/SkipButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/media/MediaPlayer.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/util/Duration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/util/TimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/control/ProgressIndicator.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/AccessibleAttribute.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/SeekBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/RepeatButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/PreviousButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/ThemeSpinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/fxml/FXMLLoader.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/animation/Animation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/FXMLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/FXMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/layout/Pane.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/Scene.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/lang/Runnable.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/control/ProgressBar.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/javafx-src.zip!/javafx/concurrent/Task.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/test/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/jfx/caspiantheme.css" />
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/image/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="618" column="11" selection-start-line="618" selection-start-column="11" selection-end-line="618" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/javafx-src.zip!/javafx/scene/effect/DropShadow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="100" column="11" selection-start-line="100" selection-start-column="11" selection-end-line="100" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/util/ImageViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/SmartSplashPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/tika-app-1.8.jar!/org/apache/tika/cli/TikaCLI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/FXPlayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/arman/jfx/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/jfx/SplashPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/arman/jfx/FXPlayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="362" column="100" selection-start-line="362" selection-start-column="100" selection-end-line="362" selection-end-column="100" />
+          <folding>
+            <element signature="e#0#20096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JPlay:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>campoe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPlay</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.tika:tika-core:1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

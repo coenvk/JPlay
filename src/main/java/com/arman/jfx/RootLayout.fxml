@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane id="root" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="com.arman.jfx.FXMLController">
+  <children>
+    <BorderPane layoutX="0.0" layoutY="0.0" prefHeight="400.0" prefWidth="600.0">
+      <center>
+        <VBox prefHeight="200.0" prefWidth="100.0">
+          <children>
+            <Label text="Currently Playing:" />
+            <Button mnemonicParsing="false" text="Button" />
+          </children>
+        </VBox>
+      </center>
+      <top>
+        <ToolBar>
+          <items>
+            <Button mnemonicParsing="false" text="Main" />
+            <Button mnemonicParsing="false" text="Equalizer" />
+          </items>
+        </ToolBar>
+      </top>
+    </BorderPane>
+  </children>
+</Pane>

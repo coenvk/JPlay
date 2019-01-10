@@ -1,0 +1,29 @@
+.dialog-pane {
+    -fx-background-color: #3a3a3a;
+}
+
+.dialog-pane .label {
+    -fx-text-fill: white;
+}
+
+.dialog-pane:header .header-panel {
+    -fx-background-color: #3a3a3a;
+}
+
+.dialog-pane:header .header-panel .label {
+    -fx-font-size: 15;
+}
+
+.dialog-pane .content.label {
+    -fx-alignment: top-left;
+    -fx-padding: 16 10 0 10;
+    -fx-font-size: 15;
+}
+
+.dialog-pane:header .header-panel .graphic-container {
+    -fx-padding: 0 0 0 10;
+}
+
+.dialog-pane:no-header .graphic-container {
+    -fx-padding: 10 0 0 10;
+}
